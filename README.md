@@ -7,9 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=NikKowPHP&style=flat-square&color=blue" alt=""/>
 </div>
 
-### 🌐 Connect with Me
-
-Let's connect and explore opportunities to work together! Feel free to reach out via email or connect with me on LinkedIn.
 
 📧 Email: [nik.kow@outlook.com] </br>
 💼 LinkedIn: [https://www.linkedin.com/in/mikita-kavaliou-390b62236/]
